@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Black belt</title>
-      <link>/resources/black/</link>
+      <title>Black/brown belt</title>
+      <link>/resources/black_brown/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/resources/black/</guid>
+      <guid>/resources/black_brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brown/black belt</title>
+      <link>/resources/brown-black/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/brown-black/</guid>
       <description></description>
     </item>
     
@@ -66,12 +75,30 @@
     </item>
     
     <item>
+      <title>Yellow/orange belt</title>
+      <link>/resources/yellow-orange/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/yellow-orange/</guid>
+      <description>Basics  Basic 1: Step and punch in zenkutsudachi          Basic 2: Gyakuzuki from zenkutsudachi          Basic 3: Front kick/Mae geri          Basic 4: Step up sidekick/surikomi sokuto         </description>
+    </item>
+    
+    <item>
       <title>Yellow belt</title>
       <link>/resources/yellow/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/resources/yellow/</guid>
-      <description></description>
+      <description>Basics  Basic 1: Step and punch in zenkutsudachi          Basic 2: Gyakuzuki from zenkutsudachi          Basic 3: Front kick/Mae geri          Basic 4: Step up sidekick/surikomi sokuto         </description>
+    </item>
+    
+    <item>
+      <title>Red/black belt</title>
+      <link>/resources/red-black/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/red-black/</guid>
+      <description>Stances  Attention stance/Musubudachi          Ready stance/Yo-oi         Blocking  Head block/low block/inner block         Movement  Step/shuffle/switch/turn         </description>
     </item>
     
     <item>
@@ -80,7 +107,7 @@
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/resources/red/</guid>
-      <description>Stances  Attention stance video          Ready stance video         Blocking  Blocking video         Movement  Movement video         </description>
+      <description>Stances  Attention stance/Musubudachi          Ready stance/Yo-oi         Blocking  Head block/low block/inner block         Movement  Step/shuffle/switch/turn         </description>
     </item>
     
     <item>
@@ -89,7 +116,7 @@
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/resources/white/</guid>
-      <description>Stances  Ready stance video          Attention stance video         </description>
+      <description>Stances  Attention stance/Musubudachi          Ready stance/Yo-oi         </description>
     </item>
     
     <item>

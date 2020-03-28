@@ -1,7 +1,7 @@
 ---
-title: Yellow belt
+title: Yellow/orange belt
 date: "2020-03-28"
-weight: 9
+weight: 8
 ---
 
 ## Basics
