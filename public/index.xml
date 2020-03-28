@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Kamaete</title>
+    <link>/</link>
+    <description>Recent content in Home on Kamaete</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>SOMETHING ABOUT THIS SITE.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
