@@ -1,7 +1,7 @@
 ---
-title: Red belts
+title: Red belt
 date: "2020-03-28"
-weight: 2
+weight: 8
 ---
 
 ## Stances

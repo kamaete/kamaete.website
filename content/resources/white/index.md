@@ -1,7 +1,7 @@
 ---
-title: White belts
+title: White belt
 date: "2020-03-28"
-weight: 1
+weight: 9
 ---
 
 ## Stances

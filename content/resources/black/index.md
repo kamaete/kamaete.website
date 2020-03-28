@@ -1,6 +1,6 @@
 ---
-title: Black belts
+title: Black belt
 date: "2020-03-28"
-weight: 9
+weight: 1
 ---
 

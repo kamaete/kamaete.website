@@ -1,6 +1,6 @@
 ---
-title: Orange belts
+title: Orange belt
 date: "2020-03-28"
-weight: 4
+weight: 6
 ---
 

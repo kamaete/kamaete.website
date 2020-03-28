@@ -1,6 +1,6 @@
 ---
-title: Blue belts
+title: Blue belt
 date: "2020-03-28"
-weight: 6
+weight: 4
 ---
 
