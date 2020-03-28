@@ -3,9 +3,9 @@ title: Training resources for white belts
 date: "2020-03-28"
 ---
 
-{{< expandable label="Stances" level="2" >}}
+## Stances
 
-## Attention stance
+{{< expandable label="Attention stance" level="2" >}}
 
 {{< youtube otrQceNzr3M >}}
 
