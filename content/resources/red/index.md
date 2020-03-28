@@ -5,21 +5,21 @@ date: "2020-03-28"
 
 ## Stances
 
-{{< expandable label="Ready stance" level="2" >}}
-
-{{< youtube _m0bc4DmczE >}}
-
-{{< /expandable >}}
-
-{{< expandable label="Attention stance" level="2" >}}
+{{< expandable label="Attention stance video" level="2" >}}
 
 {{< youtube otrQceNzr3M >}}
 
 {{< /expandable >}}
 
+{{< expandable label="Ready stance video" level="2" >}}
+
+{{< youtube _m0bc4DmczE >}}
+
+{{< /expandable >}}
+
 ## Blocking
 
-{{< expandable label="Blocks" level="2" >}}
+{{< expandable label="Blocking video" level="2" >}}
 
 {{< youtube 0-DP1HqF7fU >}}
 
@@ -27,7 +27,7 @@ date: "2020-03-28"
 
 ## Movement
 
-{{< expandable label="Movement (Blue Stripe)" level="2" >}}
+{{< expandable label="Movement video" level="2" >}}
 
 {{< youtube kHy4hYhta-E >}}
 

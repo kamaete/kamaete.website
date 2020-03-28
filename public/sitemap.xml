@@ -18,13 +18,48 @@
   </url>
   
   <url>
-    <loc>/resources/red/</loc>
+    <loc>/resources/black/</loc>
     <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/resources/blue/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/brown/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/green/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/orange/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/purple/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/red/</loc>
+    <lastmod>2020-03-28T18:14:25+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/resources/white/</loc>
-    <lastmod>2020-03-28T17:31:52+00:00</lastmod>
+    <lastmod>2020-03-28T18:14:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/yellow/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
