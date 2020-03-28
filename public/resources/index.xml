@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Training resources for red belts</title>
+      <link>/resources/red/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/red/</guid>
+      <description>Stances  Ready stance          Attention stance         Blocking  Blocks         Movement  Movement (Blue Stripe)         </description>
+    </item>
+    
+    <item>
       <title>Training resources for white belts</title>
       <link>/resources/white/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/resources/white/</guid>
-      <description>Stances  Attention stance         </description>
+      <description>Stances  Ready stance          Attention stance         </description>
     </item>
     
   </channel>
