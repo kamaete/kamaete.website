@@ -1,5 +1,6 @@
 ---
-title: Training resources for purple belts
+title: Purple belts
 date: "2020-03-28"
+weight: 7
 ---
 

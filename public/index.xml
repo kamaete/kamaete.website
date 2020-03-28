@@ -12,79 +12,7 @@
     
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>SOMETHING ABOUT THIS SITE.</description>
-    </item>
-    
-    <item>
-      <title>Training resources for black belts</title>
-      <link>/resources/black/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/resources/black/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training resources for blue belts</title>
-      <link>/resources/blue/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/resources/blue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training resources for brown belts</title>
-      <link>/resources/brown/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/resources/brown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training resources for green belts</title>
-      <link>/resources/green/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/resources/green/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training resources for orange belts</title>
-      <link>/resources/orange/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/resources/orange/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training resources for purple belts</title>
-      <link>/resources/purple/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/resources/purple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training resources for red belts</title>
-      <link>/resources/red/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/resources/red/</guid>
-      <description>Stances  Attention stance video          Ready stance video         Blocking  Blocking video         Movement  Movement video         </description>
-    </item>
-    
-    <item>
-      <title>Training resources for white belts</title>
+      <title>White belts</title>
       <link>/resources/white/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -93,12 +21,84 @@
     </item>
     
     <item>
-      <title>Training resources for yellow belts</title>
+      <title>Red belts</title>
+      <link>/resources/red/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/red/</guid>
+      <description>Stances  Attention stance video          Ready stance video         Blocking  Blocking video         Movement  Movement video         </description>
+    </item>
+    
+    <item>
+      <title>Yellow belts</title>
       <link>/resources/yellow/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/resources/yellow/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Orange belts</title>
+      <link>/resources/orange/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green belts</title>
+      <link>/resources/green/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue belts</title>
+      <link>/resources/blue/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/blue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purple belts</title>
+      <link>/resources/purple/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/purple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brown belts</title>
+      <link>/resources/brown/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black belts</title>
+      <link>/resources/black/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>SOMETHING ABOUT THIS SITE.</description>
     </item>
     
   </channel>

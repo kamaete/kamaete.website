@@ -1,5 +1,6 @@
 ---
-title: Training resources for black belts
+title: Black belts
 date: "2020-03-28"
+weight: 9
 ---
 

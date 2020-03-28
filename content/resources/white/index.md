@@ -1,6 +1,7 @@
 ---
-title: Training resources for white belts
+title: White belts
 date: "2020-03-28"
+weight: 1
 ---
 
 ## Stances

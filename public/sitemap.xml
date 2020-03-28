@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/resources/white/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/red/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/yellow/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/orange/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/green/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/blue/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/purple/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/brown/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/resources/black/</loc>
+    <lastmod>2020-03-28T18:49:27+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2020-03-28T16:20:58+00:00</lastmod>
   </url>
@@ -15,51 +60,6 @@
   <url>
     <loc>/resources/</loc>
     <lastmod>2020-03-28T17:27:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/black/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/blue/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/brown/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/green/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/orange/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/purple/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/red/</loc>
-    <lastmod>2020-03-28T18:14:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/white/</loc>
-    <lastmod>2020-03-28T18:14:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/yellow/</loc>
-    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

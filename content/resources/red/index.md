@@ -1,6 +1,7 @@
 ---
-title: Training resources for red belts
+title: Red belts
 date: "2020-03-28"
+weight: 2
 ---
 
 ## Stances
