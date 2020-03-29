@@ -15,7 +15,7 @@ date: "2020-03/28"
 
 {{< /expandable >}}
 
-{{< expandable label="Sensei Billy's kate/chores" level="2" >}}
+{{< expandable label="Sensei Billy's kata/chores" level="2" >}}
 
 {{< youtube JRFrXHLwvqg >}}
 
