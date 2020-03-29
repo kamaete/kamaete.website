@@ -9,15 +9,11 @@ date: "2020-03-28"
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Pinan Nidan" level="2" >}}
 
 {{< youtube XOj4tb5bOOU >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Pinan Sandan" level="2" >}}
 
@@ -25,15 +21,11 @@ date: "2020-03-28"
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Pinan Shodan" level="2" >}}
 
 {{< youtube Cz8tQHMQPIU >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Pinan Yodan" level="2" >}}
 
@@ -41,23 +33,17 @@ date: "2020-03-28"
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Pinan Godan" level="2" >}}
 
 {{< youtube F94BROZs-9w >}}
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Naifanchi" level="2" >}}
 
 {{< youtube is96R-SKRcs >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Kushanku" level="2" >}}
 

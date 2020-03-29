@@ -9,15 +9,11 @@ date: "2020-03-28"
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Toma Bo" level="2">}}
 
 {{< youtube GyXcxvtzNBU >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Tokumine no kun" level="2">}}
 
