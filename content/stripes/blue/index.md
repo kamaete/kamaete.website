@@ -12,8 +12,6 @@ weight: 5
 
 {{< /expandable >}}
 
-<br>
-
 
 ## Solo combinations
 
@@ -23,21 +21,18 @@ weight: 5
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Solo Combination 2: Mae geri/Yoko geri/Mawashi geri/Gyakuzuki" level="2" >}}
 
 {{< youtube ZYquQKgsyZI >}}
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Solo Combination 3: Mae geri/Mawashi geri/Sokuto/Ushiro geri/Gyakuzuki" level="2" >}}
 
 {{< youtube wkC1xBj8zRQ >}}
 
 {{< /expandable >}}
+
 
 ## Pairs
 
@@ -46,8 +41,6 @@ weight: 5
 {{< youtube qq4IGq-gPIw >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Pair 2: Drop sweep (Otoshi barai)" level="2" >}}
 

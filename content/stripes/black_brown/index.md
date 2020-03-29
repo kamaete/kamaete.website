@@ -12,15 +12,11 @@ weight: 1
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Basic 3: Otoshi barai & stand up technique" level="2" >}}
 
 {{< youtube XmPqxa2Ixwg >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Basic 4: Mawashi uraken" level="2" >}}
 
