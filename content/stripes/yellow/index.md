@@ -12,25 +12,19 @@ weight: 9
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Basic 2: Gyakuzuki from zenkutsudachi" level="2" >}}
 
 {{< youtube CGii7Z6Ji1o >}}
 
 {{< /expandable >}}
 
-<br>
-
-{{< expandable label="Basic 3: Front kick/Mae geri" level="2" >}}
+{{< expandable label="Basic 3: Front kick (Mae geri)" level="2" >}}
 
 {{< youtube 29tLJbg3IeI >}}
 
 {{< /expandable >}}
 
-<br>
-
-{{< expandable label="Basic 4: Step up sidekick/surikomi sokuto" level="2" >}}
+{{< expandable label="Basic 4: Step up side kick (surikomi sokuto)" level="2" >}}
 
 {{< youtube zCQmW0kSoic >}}
 
@@ -45,15 +39,11 @@ weight: 9
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Solo Combination 2: Front kick/Opposite punch (Mae geri/Gyakuzuki)" level="2" >}}
 
 {{< youtube 8puztVcWcEo >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Solo Combination 3: Front kick/Jab punch (Mae geri/Tobikomizuki)" level="2" >}}
 

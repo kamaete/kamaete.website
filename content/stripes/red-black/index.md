@@ -12,23 +12,17 @@ weight: 10
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Basic 2: Elbow strike (Empi)" level="2" >}}
 
 {{< youtube ZJxyEg7wYEw >}}
 
 {{< /expandable >}}
 
-<br>
-
 {{< expandable label="Basic 3: Step up front kick (Surikomi mae geri)" level="2" >}}
 
 {{< youtube b25biJymOFY >}}
 
 {{< /expandable >}}
-
-<br>
 
 {{< expandable label="Basic 4: Step up roundhouse kick (Surikomi mawashi geri)" level="2" >}}
 
