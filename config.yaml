@@ -19,7 +19,7 @@ imaging:
 
 params:
   description: ""
-  homeMetaContent: ""
+  homeMetaContent: "Karate @ Home"
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [GitHub](https://github.com/kamaete.github.io).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Mon, 02 Jan 06
