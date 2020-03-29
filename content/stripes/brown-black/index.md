@@ -6,16 +6,16 @@ weight: 2
 
 ## Basics
 
-{{< expendable label="Basic 5: Tobi sokuto (jumping sidekick)" level="2" >}}
+{{< expandable label="Basic 5: Tobi sokuto (jumping sidekick)" level="2" >}}
 
 {{< youtube QYenvZrzda0 >}}
 
-{{< /expendable >}}
+{{< /expandable >}}
 
 <br>
 
-{{< expendable label="Basic 6: Tatsumaki geri (Tornado kick)" level="2" >}}
+{{< expandable label="Basic 6: Tatsumaki geri (Tornado kick)" level="2" >}}
 
 {{< youtube 3Z7KPlaxF14 >}}
 
-{{< /expendable >}}
+{{< /expandable >}}

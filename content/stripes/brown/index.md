@@ -6,9 +6,9 @@ weight: 3
 
 ## Basics
 
-{{< expendable label="Gyaku mawashi geri (Hook kick)" level="2" >}}
+{{< expandable label="Gyaku mawashi geri (Hook kick)" level="2" >}}
 
 {{< youtube b2YkjC2y8E4 >}}
 
-{{< /expendable >}}
+{{< /expandable >}}
 
