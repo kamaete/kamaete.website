@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/resources/black_brown/</loc>
+    <loc>/stripes/black_brown/</loc>
     <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/brown-black/</loc>
+    <loc>/stripes/brown-black/</loc>
     <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/brown/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/purple/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/blue/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/green/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/orange/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/yellow-orange/</loc>
+    <loc>/stripes/brown/</loc>
     <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/yellow/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resources/red-black/</loc>
+    <loc>/stripes/purple/</loc>
     <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/red/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
+    <loc>/stripes/blue/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/white/</loc>
-    <lastmod>2020-03-28T19:09:30+00:00</lastmod>
+    <loc>/stripes/green/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stripes/orange/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stripes/yellow-orange/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stripes/yellow/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stripes/red-black/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stripes/red/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stripes/white/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -68,18 +68,42 @@
   </url>
   
   <url>
+    <loc>/forest-dojo/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-03-28T16:20:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/resources/</loc>
-    <lastmod>2020-03-28T17:27:53+00:00</lastmod>
+    <loc>/kata/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/kicks/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/stripes/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/weapons/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
     <lastmod>2020-03-28T16:20:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/challenges/</loc>
   </url>
   
   <url>

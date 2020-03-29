@@ -18,8 +18,8 @@ imaging:
   quality: 99
 
 params:
-  description: A Karate Journey
-  homeMetaContent: A Karate Journey
+  description: Karate at Home Guide
+  homeMetaContent: Karate at Home Guide
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [GitHub](https://github.com/kamaete.github.io).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Mon, 02 Jan 06
@@ -28,21 +28,42 @@ params:
 
 menu:
   nav:
+    #- name: Home
+    #  url: /
+    #  weight: 1
+    #- name: Blog
+    #  url: /post/
+    #  weight: 2
+    #- name: Resources
+    #  url: /resources/
+    #  weight: 3
+    #- name: Tags
+    #  url: /tags/
+    #  weight: 4
+    #- name: About
+    #  url: /about/
+    #  weight: 5
     - name: Home
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
+    - name: Forest Dojo
+      url: /forest-dojo/
       weight: 2
-    - name: Resources
-      url: /resources/
+    - name: Stripes
+      url: /stripes/
       weight: 3
-    - name: Tags
-      url: /tags/
+    - name: Challenges/Badges
+      url: /challenges/
       weight: 4
-    - name: About
-      url: /about/
+    - name: Kata
+      url: /kata/
       weight: 5
+    - name: Kicks
+      url: /kicks/
+      weight: 6
+    - name: Weapons
+      url: /weapons/
+      weight: 7
 
 markup:
   defaultMarkdownHandler: goldmark

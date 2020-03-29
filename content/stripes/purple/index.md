@@ -1,0 +1,39 @@
+---
+title: Purple belt
+date: "2020-03-28"
+weight: 4
+---
+
+## Basics
+
+{{< expandable label="Basic 1: Ushiro mawashi geri (spinning hook kick)" level="2" >}}
+
+{{< youtube AjelNMo68eA >}}
+
+{{< /expandable >}}
+
+## Solo combinations
+
+{{< expandable label="Solo Combination 1: Mae geri/Mawashi geri/Sokuto/Ushiro geri/Gyakuzuku" level="2" >}}
+
+{{< youtube tRvBX1CN6Bg >}}
+
+{{< /expandable >}}
+
+<br>
+
+{{< expandable label="Solo Combination 2: Mae geri/Tobikomizuki/Ashi barai/Tobikomizuki/Haito" level="2" >}}
+
+{{< youtube 90MYm7qUSF4 >}}
+
+{{< /expandable >}}
+
+<br>
+
+{{< expandable label="Solo Combination 3: Yoko geri/Mawashi geri/Mawashi uraken/Gyakazuki" level="2" >}}
+
+{{< youtube SqSc1sbTu2g >}}
+
+{{< /expandable >}}
+
+
