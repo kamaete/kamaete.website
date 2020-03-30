@@ -1,13 +1,17 @@
 ---
-title: Kata tutorial
+title: Kata tutorial and demonstration
 date: "2020-03-28"
 ---
+
+## Tutorial
 
 {{< expandable label="Kata support: half-turned cat stance" level="2" >}}
 
 {{< youtube V9k_GAs6-QU >}}
 
 {{< /expandable >}}
+
+## Demonstration
 
 {{< expandable label="Pinan Nidan" level="2" >}}
 
