@@ -74,3 +74,11 @@ weight: 6
 {{< youtube XkbUgJNJKXA >}}
 
 {{< /expandable >}}
+
+## Solo combinations
+
+{{< expandable label="Solo Combination 3: Mawashi geri/Ushiro geri/uraken" level="2" >}}
+
+{{< youtube zHyGuaKWvIw >}}
+
+{{< /expandable >}}
