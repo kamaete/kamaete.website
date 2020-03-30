@@ -3,11 +3,15 @@ title: Weapons tutorial
 date: "2020-03-28"
 ---
 
+## Nunchaku
+
 {{< expandable label="Elite Figure 8 Nunchaku Advanced Tutorial" level="2">}}
 
 {{< youtube trPn-Xwq9cI >}}
 
 {{< /expandable >}}
+
+## Bo
 
 {{< expandable label="Toma Bo" level="2">}}
 
