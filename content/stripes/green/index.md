@@ -8,7 +8,17 @@ weight: 6
 
 {{< expandable label="Basic 1: Kick/Punch (Kette junzuki) " level="2" >}}
 
-    {{< youtube 6Zzt81byM8c >}}
+    {{< expandable label="Sensei Mary" level="3" >}}
+        
+        {{< youtube 6Zzt81byM8c >}}
+    
+    {{< /expandable >}}
+    
+    {{< expandable label="Sensei Rob" level="3" >}}
+    
+        {{< youtube uy4fWSxWRzs >}}
+        
+    {{< /expandable >}}
 
 {{< /expandable >}}
 
