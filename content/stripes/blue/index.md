@@ -6,6 +6,12 @@ weight: 5
 
 ## Basics
 
+{{< expandable label="Basic 5: Nagashizuki" level="2" >}}
+
+{{< youtube bnzWtMWKo6A >}}
+
+{{< /expandable >}}
+
 {{< expandable label="Basic 6: Kakato geri" level="2" >}}
 
 {{< youtube koHhKgsNEBI >}}
