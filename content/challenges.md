@@ -3,6 +3,8 @@ title: Exercises, challenges and badges
 date: "2020-03/28"
 ---
 
+## Exercises
+
 {{< expandable label="Daily stretch" level="2" >}}
 
 {{< youtube i1CeuwwdO9c >}}
@@ -14,6 +16,8 @@ date: "2020-03/28"
 {{< youtube RpHCeooyqNo >}}
 
 {{< /expandable >}}
+
+## Challenges
 
 {{< expandable label="Sensei Billy's kata/chores" level="2" >}}
 
@@ -32,6 +36,8 @@ date: "2020-03/28"
 {{< youtube 85ZotSHGlpo >}}
 
 {{< /expandable >}}
+
+## Badges
 
 {{< expandable label="Skipping Challenge" level="2" >}}
 
