@@ -77,6 +77,18 @@ weight: 6
 
 ## Solo combinations
 
+{{< expandable label="Solo Combination 1: Tobikomizuki/Gyakuzuki/Ashi Barai/Gyakuzuki" level="2" >}}
+
+{{< youtube DQJ_f8P5tSo >}}
+
+{{< /expandable >}}
+
+{{< expandable label="Solo Combination 2: Yoko geri/Mawashi geri/Gyakuzuki" level="2" >}}
+
+{{< youtube S3inEhbuULs >}}
+
+{{< /expandable >}}
+
 {{< expandable label="Solo Combination 3: Mawashi geri/Ushiro geri/uraken" level="2" >}}
 
 {{< youtube zHyGuaKWvIw >}}

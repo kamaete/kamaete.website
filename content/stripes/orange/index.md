@@ -12,6 +12,12 @@ weight: 7
 
 {{< /expandable >}}
 
+{{< expandable label="Basic 2: Gyakuzuki no tsukkomi (leaning opposite punch)" level="2" >}}
+
+{{< youtube _d-HMhdQCH0 >}}
+
+{{< /expandable >}}
+
 {{< expandable label="Basic 3: Roundhouse kick (Mawashi geri - Chudan)" level="2" >}}
 
 {{< youtube vjhbClQ1GgI >}}
@@ -50,7 +56,6 @@ weight: 7
 {{< youtube ag321Cm7HyY >}}
 
 {{< /expandable >}}
-
 
 ## Pairs
 
