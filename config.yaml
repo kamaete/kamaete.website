@@ -3,10 +3,32 @@ languageCode: en-gb
 defaultContentLanguage: en
 title: "Kamaete: Karate at Home"
 theme: cupper-hugo-theme
-googleAnalytics: ""
+googleAnalytics: UA-162156816-1
 disqusShortname: ""
 enableGitInfo: true
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: true
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    simple: true
+  youtube:
+    disable: false
+    privacyEnhanced: true
 
 taxonomies:
   tag: tags
