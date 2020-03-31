@@ -8,32 +8,33 @@ weight: 11
 
 {{< expandable label="Attention stance/Musubudachi" level="2" >}}
 
-{{< youtube otrQceNzr3M >}}
+    {{< youtube otrQceNzr3M >}}
 
 {{< /expandable >}}
+
 
 {{< expandable label="Ready stance/Yo-oi" level="2" >}}
 
-{{< youtube _m0bc4DmczE >}}
+    {{< youtube _m0bc4DmczE >}}
 
 {{< /expandable >}}
+
 
 ## Blocking
 
 {{< expandable label="Head block/low block/inner block" level="2" >}}
 
-{{< youtube 0-DP1HqF7fU >}}
+    {{< youtube 0-DP1HqF7fU >}}
 
 {{< /expandable >}}
+
 
 ## Movement
 
 {{< expandable label="Step/shuffle/switch/turn" level="2" >}}
 
-{{< youtube kHy4hYhta-E >}}
+    {{< youtube kHy4hYhta-E >}}
 
 {{< /expandable >}}
-
-
 
 

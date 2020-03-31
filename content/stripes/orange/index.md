@@ -8,31 +8,35 @@ weight: 7
 
 {{< expandable label="Basic 1: Junzuki no tsukkomi (leaning front punch)" level="2" >}}
 
-{{< youtube 7z6_hPjfOgA >}}
+    {{< youtube 7z6_hPjfOgA >}}
 
 {{< /expandable >}}
+
 
 {{< expandable label="Basic 2: Gyakuzuki no tsukkomi (leaning opposite punch)" level="2" >}}
 
-{{< youtube _d-HMhdQCH0 >}}
+    {{< youtube _d-HMhdQCH0 >}}
 
 {{< /expandable >}}
+
 
 {{< expandable label="Basic 3: Roundhouse kick (Mawashi geri - Chudan)" level="2" >}}
 
-{{< youtube vjhbClQ1GgI >}}
+    {{< youtube vjhbClQ1GgI >}}
 
 {{< /expandable >}}
+
 
 {{< expandable label="Basic 4: Roundhouse kick (Mawashi geri)" level="2" >}}
 
-{{< youtube Ra9juItu988 >}}
+    {{< youtube Ra9juItu988 >}}
 
 {{< /expandable >}}
 
+
 {{< expandable label="Basic 5: Back kick (Ushiro geri)" level="2" >}}
 
-{{< youtube p-rdCxcShJA >}}
+    {{< youtube p-rdCxcShJA >}}
 
 {{< /expandable >}}
 
@@ -41,19 +45,21 @@ weight: 7
 
 {{< expandable label="Solo Combination 1: Mae geri/Mawashi geri/Gyakuzuki" level="2" >}}
 
-{{< youtube QFXvvlUXKQU >}}
+    {{< youtube QFXvvlUXKQU >}}
 
 {{< /expandable >}}
+
 
 {{< expandable label="Solo Combination 2: Mae geri/Tobikomizuki/Zenshin koutai/Tobikomizuki/Mawashi geri" level="2" >}}
 
-{{< youtube _o4hhLp7GuQ >}}
+    {{< youtube _o4hhLp7GuQ >}}
 
 {{< /expandable >}}
 
+
 {{< expandable label="Solo Combination 3: Back fist/chop (uraken/Shuto gamen)" level="2" >}}
 
-{{< youtube ag321Cm7HyY >}}
+    {{< youtube ag321Cm7HyY >}}
 
 {{< /expandable >}}
 
@@ -61,13 +67,14 @@ weight: 7
 
 {{< expandable label="Pair 1" level="2" >}}
 
-{{< youtube Rd1Fr7nbomc >}}
+    {{< youtube Rd1Fr7nbomc >}}
 
 {{< /expandable >}}
 
+
 {{< expandable label="Pair 2" level="2" >}}
 
-{{< youtube QWyn6Ya_GDc >}}
+    {{< youtube QWyn6Ya_GDc >}}
 
 {{< /expandable >}}
 

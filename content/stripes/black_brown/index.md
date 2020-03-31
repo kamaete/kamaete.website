@@ -8,18 +8,20 @@ weight: 1
 
 {{< expandable label="Basic 1: Tobikomizuki/Nagashizuki/Gyakuzuki" level="2" >}}
 
-{{< youtube 7sIYxlL2YF8 >}}
+    {{< youtube 7sIYxlL2YF8 >}}
 
 {{< /expandable >}}
+
 
 {{< expandable label="Basic 3: Otoshi barai & stand up technique" level="2" >}}
 
-{{< youtube XmPqxa2Ixwg >}}
+    {{< youtube XmPqxa2Ixwg >}}
 
 {{< /expandable >}}
 
+
 {{< expandable label="Basic 4: Mawashi uraken" level="2" >}}
 
-{{< youtube GXhaHV6FVs4 >}}
+    {{< youtube GXhaHV6FVs4 >}}
 
 {{< /expandable >}}
