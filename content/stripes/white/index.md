@@ -8,13 +8,26 @@ weight: 12
 
 {{< expandable label="Attention stance/Musubudachi" level="2" >}}
 
-{{< youtube otrQceNzr3M >}}
+    {{< youtube otrQceNzr3M >}}
 
 {{< /expandable >}}
+
 
 {{< expandable label="Ready stance/Yo-oi" level="2" >}}
 
-{{< youtube _m0bc4DmczE >}}
+    {{< youtube _m0bc4DmczE >}}
 
 {{< /expandable >}}
+
+
+## Punching
+
+{{< expandable label="Punching (blue stripe)" level="2" >}}
+
+    {{< youtube YyoaEN4BXaA >}}
+
+{{< /expandable >}}
+
+
+
 
