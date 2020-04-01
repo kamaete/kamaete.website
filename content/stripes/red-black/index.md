@@ -62,3 +62,12 @@ weight: 10
     {{< youtube 8jXVenedZsg >}}
 
 {{< /expandable >}}
+
+
+## Movement
+
+{{< expandable label="Movement: Step/Shuffle/Directional changes/Jab and Gyakuzuki" level="2" >}}
+
+    {{< youtube 38YDWQm8K44 >}}
+
+{{< /expandable >}}
