@@ -20,6 +20,13 @@ weight: 11
 {{< /expandable >}}
 
 
+{{< expandable label="Forward leaning stance (Zenkutsudachi)" level="2" >}}
+
+    {{< youtube 4psPraWD3z0 >}}
+
+{{< /expandable >}}
+
+
 ## Blocking
 
 {{< expandable label="Head block/low block/inner block" level="2" >}}
