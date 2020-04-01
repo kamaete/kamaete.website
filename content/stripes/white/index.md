@@ -20,6 +20,13 @@ weight: 12
 {{< /expandable >}}
 
 
+{{< expandable label="Forward leaning stance (Zenkutsudachi)" level="2" >}}
+
+    {{< youtube 4psPraWD3z0 >}}
+
+{{< /expandable >}}
+
+
 ## Punching
 
 {{< expandable label="Punching (blue stripe)" level="2" >}}
