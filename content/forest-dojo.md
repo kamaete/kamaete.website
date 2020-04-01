@@ -36,3 +36,10 @@ date: "2020-03-28"
     {{< youtube IGtC_uMka80 >}}
 
 {{< /expandable >}}
+
+
+{{< expandable label="You don't have to want to...you just have to do it" level="2">}}
+
+    {{< youtube YamYgNZOpk8 >}}
+
+{{< /expandable >}}
