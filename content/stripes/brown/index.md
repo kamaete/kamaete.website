@@ -1,7 +1,8 @@
 ---
-title: Brown belt
+title: "Brown belt / 3rd Kyu"
 date: "2020-03-28"
 weight: 3
+tags: ["Brown belt", "3rd Kyu"]
 ---
 
 ## Basics

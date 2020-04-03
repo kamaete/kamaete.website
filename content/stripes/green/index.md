@@ -1,7 +1,8 @@
 ---
-title: Green belt
+title: "Green belt / 6th Kyu"
 date: "2020-03-28"
 weight: 6
+tags: ["Green belt", "6th Kyu"]
 ---
 
 ## Basics

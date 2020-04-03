@@ -1,7 +1,8 @@
 ---
-title: Purple belt
+title: "Purple belt / 4th Kyu"
 date: "2020-03-28"
 weight: 4
+tags: ["Purple belt", "4th Kyu"]
 ---
 
 ## Basics

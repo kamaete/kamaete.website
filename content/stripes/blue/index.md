@@ -1,7 +1,8 @@
 ---
-title: Blue belt
+title: "Blue belt / 5th Kyu"
 date: "2020-03-28"
 weight: 5
+tags: ["Blue belt", "5th Kyu"]
 ---
 
 ## Basics

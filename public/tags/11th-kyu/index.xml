@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>11th Kyu on Kamaete: Karate at Home</title>
+    <link>/tags/11th-kyu/</link>
+    <description>Recent content in 11th Kyu on Kamaete: Karate at Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/11th-kyu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Red belt / 11th Kyu</title>
+      <link>/stripes/red/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/stripes/red/</guid>
+      <description>Stances  Attention stance/Musubudachi          Ready stance/Yo-oi          Forward leaning stance (Zenkutsudachi)         Blocking  Head block/low block/inner block         Movement  Step/shuffle/switch/turn         </description>
+    </item>
+    
+  </channel>
+</rss>
