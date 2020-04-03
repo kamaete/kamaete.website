@@ -51,3 +51,10 @@ date: "2020-03-28"
 
 {{< /expandable >}}
 
+
+{{< expandable label="Skills" level="2" >}}
+
+    {{< youtube lKgcFfWZLpw >}}
+
+{{< /expandable >}}
+

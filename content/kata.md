@@ -27,8 +27,6 @@ date: "2020-03-28"
 
 
 
-
-
 ## Demonstration
 
 {{< expandable label="Pinan nidan" level="2" >}}
@@ -80,7 +78,7 @@ date: "2020-03-28"
 {{< /expandable >}}
 
 
-{{< expandable label="Gojushiho Shito Ryu" level="2" >}}
+{{< expandable label="Gojushiho" level="2" >}}
 
     {{< youtube DCpBGqoi3tU >}}
 
