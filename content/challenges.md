@@ -1,6 +1,7 @@
 ---
-title: Exercises, challenges and badges
+title: "Exercises, challenges and badges"
 date: "2020-03/28"
+tags: ["challenges", "exercises", "badges"]
 ---
 
 ## Exercises

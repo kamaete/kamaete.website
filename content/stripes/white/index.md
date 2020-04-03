@@ -1,8 +1,8 @@
 ---
-title: White belt
+title: White belt / 12th Kyu
 date: "2020-03-28"
 weight: 12
-tags: ["white", "12th Kyu"]
+tags: ["White belt", "12th Kyu"]
 ---
 
 ## Stances

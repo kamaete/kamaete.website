@@ -1,6 +1,7 @@
 ---
-title: Kicks tutorial
+title: "Kicks tutorial"
 date: "2020-03-28"
+tags: ["kicks", "tutorial"]
 ---
 
 {{< expandable label="Mae Geri/Front Kick" level="2">}}

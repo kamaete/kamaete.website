@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>badges on Kamaete: Karate at Home</title>
+    <link>/tags/badges/</link>
+    <description>Recent content in badges on Kamaete: Karate at Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="/tags/badges/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exercises, challenges and badges</title>
+      <link>/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/challenges/</guid>
+      <description>Exercises  Daily stretch          Karate home training exercises         Challenges  Sensei Billy&amp;#39;s kata/chores          Planking with Sensei Joe          Sensei Billy&amp;#39;s Plank Challenge          Skipping Challenge          Blocking Challenge         Badges  Skipping badge 1          Skipping badge 2         </description>
+    </item>
+    
+  </channel>
+</rss>

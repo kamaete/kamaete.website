@@ -1,6 +1,7 @@
 ---
-title: Weapons tutorial
+title: "Weapons tutorial"
 date: "2020-03-28"
+tags: ["weapons", "tutorial", "nunchaku", "bo"]
 ---
 
 ## Nunchaku
