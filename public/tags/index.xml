@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Kamaete: Karate at Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>12th Kyu</title>
+      <link>/tags/12th-kyu/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/12th-kyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>white</title>
+      <link>/tags/white/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/white/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
