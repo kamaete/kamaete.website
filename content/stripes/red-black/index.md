@@ -45,7 +45,7 @@ weight: 10
 
 {{< expandable label="Blocking 2: Low block (Gedan barai)" level="2" >}}
 
-    {{< youtube PDcg8KWm5Do >}}
+    {{< youtube jcilDzACZyA >}}
 
 {{< /expandable >}}
 
