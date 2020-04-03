@@ -1,7 +1,8 @@
 ---
-title: Yellow/orange belt
+title: "Yellow-orange belt / 8th Kyu"
 date: "2020-03-28"
 weight: 8
+tags: ["Yellow-orange belt", "8th Kyu"]
 ---
 
 ## Basics

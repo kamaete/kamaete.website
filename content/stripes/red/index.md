@@ -1,7 +1,8 @@
 ---
-title: Red belt
+title: Red belt / 11th Kyu
 date: "2020-03-28"
 weight: 11
+tags: ["Red belt", "11th Kyu"]
 ---
 
 ## Stances

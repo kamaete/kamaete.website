@@ -1,6 +1,7 @@
 ---
-title: Kata tutorial and demonstration
+title: "Kata tutorial and demonstration"
 date: "2020-03-28"
+tags: ["kata", "tutorial", "demonstration"]
 ---
 
 ## Tutorial

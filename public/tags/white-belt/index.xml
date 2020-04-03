@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>White belt on Kamaete: Karate at Home</title>
+    <link>/tags/white-belt/</link>
+    <description>Recent content in White belt on Kamaete: Karate at Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/white-belt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>White belt / 12th Kyu</title>
+      <link>/stripes/white/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/stripes/white/</guid>
+      <description>Stances  Attention stance/Musubudachi          Ready stance/Yo-oi          Forward leaning stance (Zenkutsudachi)         Punching  Punching (blue stripe)         </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,7 @@
 ---
-title: Forest Dojo
+title: "Forest Dojo"
 date: "2020-03-28"
+tags: ["forest", "dojo", "forest dojo"]
 ---
 
 {{< expandable label="This is not a drill: Who are you anyway?" level="2">}}

@@ -1,7 +1,8 @@
 ---
-title: Red/black belt
+title: "Red-black belt / 10th Kyu"
 date: "2020-03-28"
 weight: 10
+tags: ["Red-black belt", "10th Kyu"]
 ---
 
 ## Basics

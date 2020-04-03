@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weapons on Kamaete: Karate at Home</title>
+    <link>/tags/weapons/</link>
+    <description>Recent content in weapons on Kamaete: Karate at Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/weapons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weapons tutorial</title>
+      <link>/weapons/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/weapons/</guid>
+      <description>Nunchaku  Elite Figure 8 Nunchaku Advanced Tutorial         Bo  Toma Bo          Tokumine no kun         </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,8 @@
 ---
-title: Orange belt
+title: "Orange belt / 7th Kyu"
 date: "2020-03-28"
 weight: 7
+tags: ["Orange belt", "7th Kyu"]
 ---
 
 ## Basics

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demonstration on Kamaete: Karate at Home</title>
+    <link>/tags/demonstration/</link>
+    <description>Recent content in demonstration on Kamaete: Karate at Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/demonstration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kata tutorial and demonstration</title>
+      <link>/kata/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/kata/</guid>
+      <description>Tutorial  Kata support: half-turned cat stance          Pinan yodan walkthrough          Pinan godan walkthrough         Demonstration  Pinan nidan          Pinan sandan          Pinan shodan          Pinan yodan          Pinan godan          Naifanchi          Kushanku          Gojushiho          Nipaipo          Superinpei      Superinpei Shito Ryu          Superinpei by Rika Usami            Bassai dai         </description>
+    </item>
+    
+  </channel>
+</rss>
