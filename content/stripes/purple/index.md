@@ -67,8 +67,21 @@ tags: ["Purple belt", "4th Kyu"]
 
 ## Pairs
 
-{{< expandable label="Pair 1: attack" level="2" >}}
+{{< expandable label="Pair 1" level="2" >}}
 
-    {{< youtube gEgD5KOTV2Q >}}
+    {{< expandable label="Pair 1: attack" level="2" >}}
+
+        {{< youtube gEgD5KOTV2Q >}}
+
+    {{< /expandable >}}
+
+
+    {{< expandable label="Pair 2: defence" level="2" >}}
+    
+        {{< youtube MuaTITxqMcM >}}
+    
+    {{< /expandable >}}
 
 {{< /expandable >}}
+
+
