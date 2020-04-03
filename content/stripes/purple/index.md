@@ -62,3 +62,12 @@ weight: 4
     {{< youtube SqSc1sbTu2g >}}
 
 {{< /expandable >}}
+
+
+## Pairs
+
+{{< expandable label="Pair 1: attack" level="2" >}}
+
+    {{< youtube gEgD5KOTV2Q >}}
+
+{{< /expandable >}}
