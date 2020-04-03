@@ -43,3 +43,11 @@ date: "2020-03-28"
     {{< youtube YamYgNZOpk8 >}}
 
 {{< /expandable >}}
+
+
+{{< expandable label="Thoughts on courage" level="2">}}
+
+    {{< youtube hktBjGwzVXA >}}
+
+{{< /expandable >}}
+
