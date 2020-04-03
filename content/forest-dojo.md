@@ -45,7 +45,7 @@ date: "2020-03-28"
 {{< /expandable >}}
 
 
-{{< expandable label="Courage" level="2">}}
+{{< expandable label="Thoughts on courage" level="2">}}
 
     {{< youtube hktBjGwzVXA >}}
 
