@@ -54,14 +54,14 @@ weight: 8
 
 {{< expandable label="Solo Combination 2: Roundhouse kick/Opposite punch (Mawashi geri/Gyakuzuki)" level="2" >}}
 
-    {{< youtube 94-hpRkH3GQ >}}
+    {{< youtube 6G2QE2-y3jI >}}
 
 {{< /expandable >}}
 
 
 {{< expandable label="Solo Combination 3: Side kick/Back fist (Sokuto/Uraken)" level="2" >}}
 
-    {{< youtube 6G2QE2-y3jI >}}
+    {{< youtube 94-hpRkH3GQ >}}
 
 {{< /expandable >}}
 
