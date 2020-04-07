@@ -28,6 +28,12 @@ tags: ["Red belt", "11th Kyu"]
 {{< /expandable >}}
 
 
+{{< expandable label="Horse-riding stance (Kibadachi)" level="2" >}}
+
+    {{< youtube X-Dw_HOuGBY >}}
+
+{{< /expandable >}}
+
 ## Blocking
 
 {{< expandable label="Head block/low block/inner block" level="2" >}}
