@@ -28,6 +28,14 @@ tags: ["White belt", "12th Kyu"]
 {{< /expandable >}}
 
 
+{{< expandable label="Horse-riding stance (Kibadachi)" level="2" >}}
+
+    {{< youtube X-Dw_HOuGBY >}}
+
+{{< /expandable >}}
+
+
+
 ## Punching
 
 {{< expandable label="Punching (blue stripe)" level="2" >}}

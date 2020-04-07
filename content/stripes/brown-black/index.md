@@ -33,3 +33,32 @@ tags: ["Brown-black belt", "2nd Kyu"]
     {{< youtube 3Z7KPlaxF14 >}}
 
 {{< /expandable >}}
+
+
+## Solo combinations
+
+
+
+{{< expandable label="Solo combination 1: Yoko mawashi geri/Jodan sokuto/Hiza-mae geri/Gyakuzuki/Uraken/Gyakuzuki" level="2" >}}
+
+    {{< youtube 9wjbRfCSgXY >}}
+
+{{< /expandable >}}
+
+
+
+{{< expandable label="Solo combination 2: Mae geri/Mawashi geri/Sokuto/Ushiro mawashi geri/Uraken/Gyakuzuki" level="2" >}}
+
+    {{< youtube 0Lng_thVbfM >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Solo combination 3: Surikomi mae geri/Nagashizuki/Gyakuzuki/Mawashi geri/Ushiro geri/Uraken" level="2" >}}
+
+    {{< youtube yXkZiffPMuQ >}}
+
+{{< /expandable >}}
+
+
+
