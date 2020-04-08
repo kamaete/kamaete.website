@@ -13,6 +13,13 @@ tags: ["kata", "tutorial", "demonstration"]
 {{< /expandable >}}
 
 
+{{< expandable label="Pinan nidan walkthrough" level="2" >}}
+
+    {{< youtube bihwxkMtSww >}}
+
+{{< /expandable >}}
+
+
 {{< expandable label="Pinan yodan walkthrough" level="2" >}}
 
     {{< youtube Ter6zfrVSxQ >}}
