@@ -35,7 +35,6 @@ tags: ["White belt", "12th Kyu"]
 {{< /expandable >}}
 
 
-
 ## Punching
 
 {{< expandable label="Punching (blue stripe)" level="2" >}}
@@ -43,6 +42,17 @@ tags: ["White belt", "12th Kyu"]
     {{< youtube YyoaEN4BXaA >}}
 
 {{< /expandable >}}
+
+
+## Blocking
+
+{{< expandable label="Basic blocking" level="2" >}}
+
+    {{< youtube _F-MbJKLwbA >}}
+
+{{< /expandable >}}
+
+
 
 
 
