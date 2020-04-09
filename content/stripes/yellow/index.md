@@ -35,6 +35,15 @@ tags: ["Yellow belt", "9th Kyu"]
 {{< /expandable >}}
 
 
+## Blocking
+
+{{< expandable label="Blocking" level="2" >}}
+
+    {{< youtube 9JZl7tJoaEE >}}
+
+{{< /expandable >}}
+
+
 ## Solo combinations
 
 {{< expandable label="Solo Combination 1: Elbow and back fist (Empi uraken)" level="2" >}}
