@@ -35,6 +35,15 @@ tags: ["Yellow-orange belt", "8th Kyu"]
 {{< /expandable >}}
 
 
+## Blocking
+
+{{< expandable label="Blocking" level="2" >}}
+
+    {{< youtube WAyfHhJPBWc >}}
+
+{{< /expandable >}}
+
+
 ## Pairs
 
 {{< expandable label="Inner block/Backfist/Gyakuzuki" level="2" >}}
