@@ -57,3 +57,30 @@ tags: ["Yellow belt", "9th Kyu"]
 
 {{< /expandable >}}
 
+
+## Movements
+
+{{< expandable label="Movement 1: Shuffle 1-2/Tobikomizuki/Gyakuzuki" level="2" >}}
+
+    {{< youtube 1BSDNxNkq4c >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Movement 2: Step 1-2" level="2" >}}
+
+    {{< youtube QtNp_zIAHDM >}}
+
+{{< /expandable >}}
+
+
+## Kata
+
+{{< expandable label="Pinan nidan (1st 9 moves)" level="2" >}}
+
+    {{< youtube VJnojautENA >}}
+
+{{< /expandable >}}
+
+
+
