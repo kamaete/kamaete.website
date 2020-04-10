@@ -13,6 +13,12 @@ tags: ["weapons", "tutorial", "nunchaku", "bo"]
 {{< /expandable >}}
 
 
+{{< expandable label="Hyper nunchuck form #1 tutorial" level="2">}}
+
+    {{< youtube hbZZpM0J87g >}}
+
+{{< /expandable >}}
+
 ## Bo
 
 {{< expandable label="Toma Bo" level="2">}}
