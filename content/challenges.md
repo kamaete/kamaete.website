@@ -72,3 +72,9 @@ tags: ["challenges", "exercises", "badges"]
 
 {{< /expandable >}}
 
+
+{{< expandable label="Skipping badge 3" level="2" >}}
+
+    {{< youtube 1h_n50_pYxU >}}
+
+{{< /expandable >}}
