@@ -20,6 +20,13 @@ tags: ["challenges", "exercises", "badges"]
 {{< /expandable >}}
 
 
+{{< expandable label="Solo Workout MMA Shadow Sparring" level="2" >}}
+
+    {{< youtube weggrEvUpAc >}}
+
+{{< /expandable >}}
+
+
 ## Challenges
 
 {{< expandable label="Sensei Billy's kata/chores" level="2" >}}
@@ -78,3 +85,12 @@ tags: ["challenges", "exercises", "badges"]
     {{< youtube 1h_n50_pYxU >}}
 
 {{< /expandable >}}
+
+
+{{< expandable label="Skipping badge 4: Kick skips" level="2" >}}
+
+    {{< youtube kP7gE1A4Hhw >}}
+
+{{< /expandable >}}
+
+

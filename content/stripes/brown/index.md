@@ -40,3 +40,12 @@ tags: ["Brown belt", "3rd Kyu"]
     {{< youtube b2YkjC2y8E4 >}}
 
 {{< /expandable >}}
+
+
+{{< expandable label="Basic 6: Ushiro kakato geri (Spinning crescent kick)" level="2" >}}
+
+    {{< youtube ONO0suzTJcY >}}
+
+{{< /expandable >}}
+
+
