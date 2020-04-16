@@ -102,4 +102,10 @@ tags: ["forest", "dojo", "forest dojo"]
 {{< /expandable >}}
 
 
+{{< expandable label="Tolerating discomfort" level="2" >}}
+
+    {{< youtube 5a_i8KgmuOk >}}
+
+{{< /expandable >}}
+
 

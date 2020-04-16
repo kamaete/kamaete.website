@@ -70,3 +70,14 @@ tags: ["Black-brown belt", "1st Kyu"]
     {{< youtube WYj89vUWFNg >}}
 
 {{< /expandable >}}
+
+
+## Kata
+
+{{< expandable label="Chinto kata mid section walkthrough" level="2" >}}
+
+    {{< youtube G0AUfrD82oU >}}
+
+{{< /expandable >}}
+
+
