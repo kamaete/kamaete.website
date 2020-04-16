@@ -94,3 +94,17 @@ tags: ["challenges", "exercises", "badges"]
 {{< /expandable >}}
 
 
+{{< expandable label="Skipping badge 5: Side/side/under/under" level="2" >}}
+
+    {{< youtube rRCXUw8d1y4 >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Skipping badge 5: The pattern" level="2" >}}
+
+    {{< youtube t57AOcGPOrs >}}
+
+{{< /expandable >}}
+
+

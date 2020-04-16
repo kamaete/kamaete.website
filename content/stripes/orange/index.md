@@ -35,6 +35,13 @@ tags: ["Orange belt", "7th Kyu"]
 {{< /expandable >}}
 
 
+{{< expandable label="Basic 4: Side kick (sokuto) " level="2" >}}
+
+    {{< youtube LXbmxTsgVC8 >}}
+
+{{< /expandable >}}
+
+
 {{< expandable label="Basic 5: Back kick (Ushiro geri)" level="2" >}}
 
     {{< youtube p-rdCxcShJA >}}

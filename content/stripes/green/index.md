@@ -52,6 +52,8 @@ tags: ["Green belt", "6th Kyu"]
 
     {{< youtube 5ZqQGB4p4KM >}}
 
+    {{< youtube LXbmxTsgVC8 >}}
+
 {{< /expandable >}}
 
 
