@@ -124,5 +124,23 @@ tags: ["kata", "tutorial", "demonstration"]
 {{< /expandable >}}
 
 
+{{< expandable label="Chinto (kata) - Wado-ryu" level="2" >}}
 
-    
+    {{< youtube gCaleacnja4 >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Seienchin" level="2" >}}
+
+    {{< youtube mEA6afLVU5Q >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Seipai Shito Ryu" level="2" >}}
+
+    {{< youtube GqNtANnhvUc >}}
+
+{{< /expandable >}}
+

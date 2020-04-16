@@ -37,18 +37,18 @@ tags: ["Black-brown belt", "1st Kyu"]
 
 ## Solo combinations
 
-<!-- {{< expandable label="Solo combination 1" level="2" >}}
+{{< expandable label="Solo combination 1" level="2" >}}
 
-    {{< youtube WdtjTYsyqVE >}}
+    {{< youtube M8E5KjFdgxo >}}
 
 {{< /expandable >}}
 
 
 {{< expandable label="Solo combination 2" level="2" >}}
 
-    {{< youtube WdtjTYsyqVE >}}
+    {{< youtube hgFA8Qkr4Lg >}}
 
-{{< /expandable >}} -->
+{{< /expandable >}}
 
 
 {{< expandable label="Solo combination 3" level="2" >}}
