@@ -49,3 +49,31 @@ tags: ["Brown belt", "3rd Kyu"]
 {{< /expandable >}}
 
 
+## Solo combinations
+
+{{< expandable label="Solo combination 1" level="2" >}}
+
+    {{< youtube qlkiY92CQ-Q >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Solo combination 2" level="2" >}}
+
+    {{< youtube 8g4MQxv5KEM >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Solo combination 3 level="2" >}}
+
+    {{< youtube 2NLhrrP12uE >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Solo combination 3 level="2" >}}
+
+    {{< youtube 2NLhrrP12uE >}}
+
+{{< /expandable >}}

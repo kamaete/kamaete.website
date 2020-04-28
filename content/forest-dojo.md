@@ -109,3 +109,44 @@ tags: ["forest", "dojo", "forest dojo"]
 {{< /expandable >}}
 
 
+{{< expandable label="What/How/Why (Sinek)" level="2" >}}
+
+    {{< youtube NjR-0IVdtiE >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Stand tall" level="2" >}}
+
+    {{< youtube hC-ke4N4XG4 >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Courtesy" level="2" >}}
+
+    {{< youtube aTE36LtUHV0 >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Integrity" level="2" >}}
+
+    {{< youtube L_T3-5WT6fk >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Perseverance" level="2" >}}
+
+    {{< youtube -KjhP7z-ItA >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Self-control" level="2" >}}
+
+    {{< youtube NMdATbWxaHI >}}
+
+{{< /expandable >}}
+
