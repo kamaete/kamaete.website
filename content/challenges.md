@@ -101,10 +101,30 @@ tags: ["challenges", "exercises", "badges"]
 {{< /expandable >}}
 
 
-{{< expandable label="Skipping badge 5: The pattern" level="2" >}}
+{{< expandable label="Skipping badge 6: The pattern" level="2" >}}
 
     {{< youtube t57AOcGPOrs >}}
 
 {{< /expandable >}}
 
+
+{{< expandable label="Skipping badge 7: Texas turn" level="2" >}}
+
+    {{< youtube 4UjeEbRXhTE >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Skipping badge 7: EB" level="2" >}}
+
+    {{< youtube t04Kmqb7xIo >}}
+
+{{< /expandable >}}
+
+
+{{< expandable label="Skipping badge 10: Double unders" level="2" >}}
+
+    {{< youtube crmid0wa8j4 >}}
+
+{{< /expandable >}}
 

@@ -32,13 +32,15 @@ tags: ["kicks", "tutorial"]
 {{< /expandable >}}
 
 
-
-
-
-
 {{< expandable label="Improve your balance for kicking" level="2">}}
 
     {{< youtube l1HgRNl9ELg >}}
 
 {{< /expandable >}}
 
+
+{{< expandable label="Follow along kick workout with Emma Elmes" level="2">}}
+
+    {{< youtube 75_mQlSktog >}}
+
+{{< /expandable >}}
